@@ -8,7 +8,5 @@ Deputado: 13456, 50000.</br>
 Presidente: 13, 50.</br>
 <br>
 <br>
-<br>
 Acesse:</br>
-<br>
 https://oliver-igor.github.io/Urna-Eletronica/
