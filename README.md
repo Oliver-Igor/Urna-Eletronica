@@ -8,5 +8,5 @@ Presidente: 13, 50.</br>
 <br>
 Ainda faltando a parte de registro dos votos.
 <br>
-Acesse:</br>
+
 https://oliver-igor.github.io/Urna-Eletronica/
